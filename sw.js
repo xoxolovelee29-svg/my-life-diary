@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v8';
+const CACHE_NAME = 'my-life-diary-v11';
 const APP_FILES = [
   './',
   './index.html',
