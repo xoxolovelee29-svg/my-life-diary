@@ -1,11 +1,11 @@
-const CACHE_NAME = 'my-life-diary-v13';
+const CACHE_NAME = 'my-life-diary-v14-red-icons';
 const APP_FILES = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './icon-192.png',
-  './icon-512.png',
-  './icon-maskable-512.png'
+  './app-icon-red-192-v2.png',
+  './app-icon-red-512-v2.png',
+  './app-icon-maskable-red-512-v2.png'
 ];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_FILES)).then(() => self.skipWaiting()));
