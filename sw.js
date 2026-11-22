@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v16-realdate-checkemoji';
+const CACHE_NAME = 'my-life-diary-v17-fasting16';
 const APP_FILES = [
   './',
   './index.html',
