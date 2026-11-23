@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v42-pwa-meal-save-visible';
+const CACHE_NAME = 'my-life-diary-v43-meal-accordion-qty-summary';
 const APP_FILES = [
   './',
   './index.html',
