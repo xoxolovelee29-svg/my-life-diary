@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v17-fasting16';
+const CACHE_NAME = 'my-life-diary-v34-tracker-activity-reorder';
 const APP_FILES = [
   './',
   './index.html',
