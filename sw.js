@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v43-meal-accordion-qty-summary';
+const CACHE_NAME = 'my-life-diary-v46-diary-search-ui-compact';
 const APP_FILES = [
   './',
   './index.html',
