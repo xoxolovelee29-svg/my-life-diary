@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v37-home-stats-cleanup';
+const CACHE_NAME = 'my-life-diary-v39-checklist-editor-oneline';
 const APP_FILES = [
   './',
   './index.html',
