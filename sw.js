@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v39-checklist-editor-oneline';
+const CACHE_NAME = 'my-life-diary-v36-weight-edit-water-nowrap';
 const APP_FILES = [
   './',
   './index.html',
