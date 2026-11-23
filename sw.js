@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v36-weight-edit-water-nowrap';
+const CACHE_NAME = 'my-life-diary-v37-favorite-food-auto-add';
 const APP_FILES = [
   './',
   './index.html',
