@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v37-favorite-food-auto-add';
+const CACHE_NAME = 'my-life-diary-v41-meal-calorie-total-save-fix';
 const APP_FILES = [
   './',
   './index.html',
