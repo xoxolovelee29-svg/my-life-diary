@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v46-diary-search-ui-compact';
+const CACHE_NAME = 'my-life-diary-v47-prayer-counter-manual-reset';
 const APP_FILES = [
   './',
   './index.html',
