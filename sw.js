@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-life-diary-v47-prayer-counter-manual-reset';
+const CACHE_NAME = 'my-life-diary-v48-bmi-bmr-weight-metrics';
 const APP_FILES = [
   './',
   './index.html',
